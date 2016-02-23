@@ -1,0 +1,5 @@
+escape ^tt
+vbell off
+defflow off
+startup_message off
+caption always "%?%F%{-b 4w}%?%L=%-Lw%45>%{-b w4}%n%f* %t%{-}%+Lw%-0<"
